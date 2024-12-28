@@ -36,3 +36,5 @@ tensorflow.keras.preprocessing.image (Image preprocessing)
 
 Platform-Specific:
 winsound (Audio alerts, specific to Windows systems)
+***IMPORTANT***
+Due to heavy size of dataset and pretranied-model i have given links. in respective folder users can go through it thankyou.
